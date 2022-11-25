@@ -1,4 +1,3 @@
-# socialmedia
 This is a Social Media Web App made using MERN Stack
 
 
